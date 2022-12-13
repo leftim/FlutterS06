@@ -1,0 +1,8 @@
+1- open docker desktop
+2- open directory eli feha el docker-compose file f cmd ( 7el dossier "backend" fel cmd ) 
+3- ekteb "docker-compose up"
+4- stana itelechargi 
+5- hel postman
+6- import fichier json "G-Store Esprit.postman_collection"
+7- ijiwek les requetes kol hadhrin 
+8- awel haja taamalha requete "Reset Database" baad tzid user etc..
